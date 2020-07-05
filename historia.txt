@@ -1,6 +1,6 @@
-Inicio            -- Colores basico  
-1 linea codigo 00 -- Red
-2 linea codigo 02 -- Blue
+Inicio            -- Color normal
+1 linea codigo 00 -- Rojo
+2 linea codigo 02 -- Azul
 3 linea codigo 03 -- Grenn
 4 linea codigo 04 --
 5 linea codigo 05 -- 
