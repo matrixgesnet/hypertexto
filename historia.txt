@@ -1,7 +1,7 @@
-1 linea codigo 00 -- dse modifico decia 01 a 00
-2 linea codigo 02
-3 linea codigo 03 -- linea que sige se elimino
-                    
-4 linea codigo 04
-5 linea codigo 05 -- seaumento
-Final
+Inicio            -- Colores basico  
+1 linea codigo 00 -- Red
+2 linea codigo 02 -- Blue
+3 linea codigo 03 -- Grenn
+4 linea codigo 04 --
+5 linea codigo 05 -- 
+Final             --
